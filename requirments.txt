@@ -1,0 +1,10 @@
+paddle
+paddlehub
+fastapi
+uvicorn
+xlrd==1.2.0
+sentencepiece
+openpyxl
+pandas
+numpy
+PyQt5

@@ -1,0 +1,10 @@
+
+因模型参数较大故通过网盘下载。
+
+模型参数下载地址：
+链接：https://pan.baidu.com/s/1IdujULJRe_DiJEHPbSH7Qw 
+提取码：yyds
+
+模型训练细节说明：
+https://aistudio.baidu.com/aistudio/projectdetail/1981601
+
